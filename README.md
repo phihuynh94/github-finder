@@ -1,2 +1,1 @@
 # github-finder
-MERN stack
