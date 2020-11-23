@@ -24,7 +24,7 @@ const Search = ({ showClear, searchUsers, clearUsers, setAlert }) => {
         <input
           type="text"
           name="text"
-          placeholder="Search Users..."
+          placeholder="Search Users... test"
           value={text}
           onChange={onChange}
         />
